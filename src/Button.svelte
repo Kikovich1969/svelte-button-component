@@ -1,6 +1,4 @@
 <script>
-  import Icon from "./Run.svelte";
-
   export let icon = false;
   export let label = "";
   export let backgroundColor = "white";
